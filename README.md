@@ -1,4 +1,4 @@
-# Pulse Quote — Insurance Website
+# Pulse Quote — Insurance Website 
 
 Static marketing website for **Pulse Quote LLC** (Brighton, Colorado, USA) — `pulse-quote.com`.
 
