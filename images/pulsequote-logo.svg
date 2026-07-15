@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 120" width="560" height="120">
+  <rect x="6" y="14" width="92" height="92" rx="20" fill="#166534"/>
+  <polyline points="16,60 34,60 42,42 52,78 62,30 72,84 80,60 88,60"
+            fill="none" stroke="#D4A017" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="118" y="74" font-family="'Nunito Sans', Helvetica, Arial, sans-serif" font-weight="800" font-size="46" fill="#166534">Pulse<tspan fill="#D4A017">Quote</tspan></text>
+  <text x="120" y="100" font-family="'Nunito Sans', Helvetica, Arial, sans-serif" font-weight="600" font-size="17" letter-spacing="3.5" fill="#4B5563">INSURANCE QUOTES</text>
+</svg>
